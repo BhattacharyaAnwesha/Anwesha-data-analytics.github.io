@@ -75,7 +75,7 @@ Outcome
 •	Enabled quick identification of top markets, cities, categories, and shipping methods.
 •	Improved visibility into revenue, profit, and logistics cost structure.
 ________________________________________
-
+https://github.com/BhattacharyaAnwesha/anwesha-analytics.github.io/blob/main/Amazon%20Sales%20Report%20Anwesha%20Bhattacharya.jpg
 ---
 
 ## Contact
