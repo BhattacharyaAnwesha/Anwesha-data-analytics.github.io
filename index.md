@@ -1,6 +1,6 @@
 My data analysis portfolio.
 
-![Anwesha](AnweshaBhattacharya](https://github.com/user-attachments/assets/96398664-f087-4464-93e4-543ebfbf5474)
+[Anwesha](AnweshaBhattacharya](https://github.com/user-attachments/assets/96398664-f087-4464-93e4-543ebfbf5474)
 .jpg)
 
 # Anwesha – Data Analyst Portfolio
