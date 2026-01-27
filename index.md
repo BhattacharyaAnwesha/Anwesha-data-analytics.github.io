@@ -1,6 +1,6 @@
 My data analysis portfolio.
 
-AnweshaBhattacharya.jpg
+anwesha-analytics.github.io/AnweshaBhattacharya.jpg
 
 # Anwesha – Data Analyst Portfolio
 
