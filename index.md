@@ -16,7 +16,7 @@ Results-driven Data Analyst skilled in Excel, Power BI, SQL, and Python. Seeking
 - Data Cleaning
 - Data Visualization
 
-## Project 1
+## Project 1 Amazon Sales Report
 ###Amazon Sales Report – Power BI Dashboard (Project Documentation)
 Tool Used: Microsoft Power BI
 Dataset: Amazon Orders / Sales Data
