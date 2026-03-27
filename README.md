@@ -10,3 +10,10 @@ This project analyzes Amazon sales data using Power BI.
 - [Page 4: Dashboard Explanation](page4.md)
 - [Page 5: Analysis & Insights](page5.md)
 - [Page 6: Conclusion](page6.md)
+
+## 👩‍💻 About Me
+
+I am a result-driven data analytics learner with a strong focus on developing skills in data analysis and visualization.  
+This project demonstrates my ability to apply analytical thinking and create interactive dashboards using Microsoft Power BI.
+
+I am consistently working towards enhancing my technical capabilities and gaining practical experience through hands-on projects and real-world data analysis.
