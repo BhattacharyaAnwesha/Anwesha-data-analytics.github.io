@@ -15,7 +15,7 @@ This project analyzes Amazon sales data using Power BI.
 
 ![Profile Photo](profile.jpg)
 
-I am a result-driven data analytics learner with a strong focus on developing skills in data analysis and visualization.  
+I am a results-driven data analytics professional focused on building strong expertise in data analysis and data visualization  
 This project demonstrates my ability to apply analytical thinking and create interactive dashboards using Microsoft Power BI.
 
-I am consistently working towards enhancing my technical capabilities and gaining practical experience through hands-on projects and real-world data analysis.
+I am committed to continuously enhancing my technical capabilities and building practical experience through hands-on projects and real-world data analysis.
