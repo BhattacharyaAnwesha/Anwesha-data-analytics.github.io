@@ -1,4 +1,5 @@
 # Data Analytics Portfolio – Anwesha
+Welcome to my data analytics portfolio, where I showcase projects based on real-world datasets using tools like Power BI, Excel, and Python.
 
 ## 👩‍💻 About Me
 
@@ -8,11 +9,8 @@ I am a results-driven data analytics professional focused on building strong exp
 This project demonstrates my ability to apply analytical thinking and create interactive dashboards using Microsoft Power BI.
 
 I am committed to continuously enhancing my technical capabilities and building practical experience through hands-on projects and real-world data analysis.
-# Data Analytics Portfolio – Anwesha
-
-Welcome to my data analytics portfolio, where I showcase projects based on real-world datasets using tools like Power BI, Excel, and Python.
-
 ---
+
 # Project1: Amazon Sales Report – Power BI Dashboard
 
 This project analyzes Amazon sales data using Power BI.
