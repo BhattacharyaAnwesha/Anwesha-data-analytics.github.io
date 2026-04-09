@@ -1,6 +1,6 @@
 # Data Analytics Portfolio – Anwesha
-Welcome to my data analytics portfolio, where I showcase projects based on real-world datasets using tools like Power BI, Excel, and Python.
-
+Welcome to my Data Analytics Portfolio!
+Here, I showcase hands-on projects completed using real-world datasets. I leverage Python and SQL for data cleaning, manipulation, and analysis, and Excel and Microsoft Power BI for creating insightful visualizations. My work focuses on analyzing sales, customer behavior, and business trends, turning raw data into actionable insights. Each project reflects the practical skills I’ve developed to solve real-world business problems effectively.
 ## 👩‍💻 About Me
 
 ![Profile Photo](profile.jpg)
