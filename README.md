@@ -6,6 +6,8 @@
 
 ## 📌 About Me
 
+profile.jpg
+
 I am a data analytics enthusiast with a background in software QA and technical content writing. I enjoy working with data to uncover insights and present them in a clear, meaningful way using dashboards and visualizations.
 
 ---
