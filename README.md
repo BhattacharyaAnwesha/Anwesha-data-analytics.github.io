@@ -18,6 +18,7 @@ I am a data analytics enthusiast with a background in software QA and technical 
 * Data Analysis: Excel, SQL, Python (Basics)
 * Data Visualization: Power BI
 * Documentation & Technical Writing
+* Software QA
 * Basic Digital Marketing & SEO
 
 ---
@@ -60,6 +61,15 @@ Analyzed Amazon sales data to identify trends, customer behavior, and performanc
 * Dashboard Visualization
 * Detailed Analysis
 * Conclusion
+
+* ## Key Areas Covered:
+
+- [Introduction](#page1introduction)
+- [Objectives](#page2objectives)
+- [Dataset Overview](#page3dataset-overview)
+- [Dashboard Visualization](#page4dashboard-visualization)
+- [Detailed Analysis](#page5analysis)
+- [Conclusion](#page6conclusion)
 
 📎 Dashboard Preview:
 ![Dashboard](page4Dashboard.md)
