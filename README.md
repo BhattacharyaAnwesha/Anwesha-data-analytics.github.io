@@ -59,7 +59,7 @@ Analyzed Amazon sales data to identify trends, customer behavior, and performanc
 * Conclusion
 
 📎 Dashboard Preview:
-![Dashboard](Project1Dashboard.jpg)
+![Dashboard](page4Dashboard.md)
 
 
 ## 📬 Contact
