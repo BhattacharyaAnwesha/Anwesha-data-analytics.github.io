@@ -6,7 +6,8 @@
 
 ## 📌 About Me
 
-profile.jpg
+<img width="640" height="640" alt="image" src="https://github.com/user-attachments/assets/a6c1a245-d614-436d-895f-e7939c03562a" />
+
 
 I am a data analytics enthusiast with a background in software QA and technical content writing. I enjoy working with data to uncover insights and present them in a clear, meaningful way using dashboards and visualizations.
 
