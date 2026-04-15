@@ -55,12 +55,12 @@ Analyzed Amazon sales data to identify trends, customer behavior, and performanc
 
 * ## Key Areas Covered:
 
-- [Introduction](#page1introduction)
-- [Objectives](#page2objectives)
-- [Dataset Overview](#page3dataset-overview)
-- [Dashboard Visualization](#page4dashboard-visualization)
-- [Detailed Analysis](#page5analysis)
-- [Conclusion](#page6conclusion)
+- [Introduction](#page1introduction.md)
+- [Objectives](#page2objectives.md)
+- [Dataset Overview](#page3dataset-overview.md)
+- [Dashboard Visualization](#page4dashboard-visualization.md)
+- [Analysis](#page5analysis.md)
+- [Conclusion](#page6conclusion.md)
 
 📎 Dashboard Preview:
 ![Dashboard](page4Dashboard.md)
