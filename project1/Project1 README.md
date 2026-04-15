@@ -24,12 +24,12 @@ This project analyzes Amazon sales data using Power BI.
 
 ## 📄 View Full Report (6 Pages)
 
-- [Page 1: Introduction](page1introduction.md)
-- [Page 2: Objectives](page2objectives.md)
-- [Page 3: Dataset Description](page3dataset.md)
-- [Page 4: Dashboard Explanation](page4Dashboard.md)
-- [Page 5: Analysis & Insights](page5analysis.md)
-- [Page 6: Conclusion](page6conclusion.md)
+- [Page 1: Introduction](Project1 page1introduction.md)
+- [Page 2: Objectives](Project1 page2objectives.md)
+- [Page 3: Dataset Description](Project1 page3dataset.md)
+- [Page 4: Dashboard Explanation](Project1 page4Dashboard.md)
+- [Page 5: Analysis & Insights](Project1 page5analysis.md)
+- [Page 6: Conclusion](Project1 page6conclusion.md)
 
 
 
