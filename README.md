@@ -21,7 +21,8 @@ I am a data analytics enthusiast with a background in software QA and technical 
 ## Certifications
 
 -  DATA ANALYTICS USING POWER BI WORKSHOP TechTip24
-_Anwesha_Bhattacharya_Certificate.pdf 
+_Anwesha_Bhattacharya_Certificate.pdf
+<img width="1286" height="910" alt="image" src="https://github.com/user-attachments/assets/0ca9b040-2269-4ceb-9b54-cd0d9040802e" />
 
 - Microsoft Power Bi Data Analyst – Udemy
 https://udemy-certificate.s3.amazonaws.com/pdf/UC-6b447624-7966-488e-96dc-cfd21f1813d3.pdf
