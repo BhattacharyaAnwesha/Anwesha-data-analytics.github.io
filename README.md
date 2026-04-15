@@ -53,15 +53,6 @@ https://www.udemy.com/certificate/UC-018e757a-b6a9-4938-9de9-fa72a83e23f3/
 **Overview:**
 Analyzed Amazon sales data to identify trends, customer behavior, and performance insights.
 
-**Key Areas Covered:**
-
-* Introduction
-* Objectives
-* Dataset Overview
-* Dashboard Visualization
-* Detailed Analysis
-* Conclusion
-
 * ## Key Areas Covered:
 
 - [Introduction](#page1introduction)
