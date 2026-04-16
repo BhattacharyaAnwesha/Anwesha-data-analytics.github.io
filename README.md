@@ -30,7 +30,7 @@ _Anwesha_Bhattacharya_Certificate.pdf
 
 - Microsoft Power Bi Data Analyst – Udemy
 https://udemy-certificate.s3.amazonaws.com/pdf/UC-6b447624-7966-488e-96dc-cfd21f1813d3.pdf
-<img width="1600" height="1190" alt="image" src="https://github.com/user-attachments/assets/e55a47cc-d951-4227-ad80-ba3a60b599ab" />
+<img width="1600" height="1190" alt="image" src="https://github.com/user-attachments/assets/c52d8dc0-8be4-4007-81de-81e6e3fb4f8c" />
 
 
 - Learn Complete Python In Simple Way – Udemy
